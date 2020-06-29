@@ -84,6 +84,7 @@ $sizes: 25, 50, 75, 100;
   }
 
   .follow-section {
+    font-size: 1.5em;
 
     .follow-text {
       color: $secondary-color;
@@ -170,6 +171,10 @@ $sizes: 25, 50, 75, 100;
 .acti-container {
   background-color: $secondary-color;
   height: auto;
+
+  .acti-inner {
+    max-width: 30em;
+  }
 }
 
 .map-container {
@@ -229,6 +234,9 @@ $sizes: 25, 50, 75, 100;
 }
 
 .masonry-right-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 5px;
   background-image: url("assets/Friend-background.png");
   background-size: cover;
@@ -238,10 +246,17 @@ $sizes: 25, 50, 75, 100;
   @media (max-width: 768px) {
     min-height: 100px;
   }
+
+  .masonry-right-1-text {
+    text-align: center;
+    font-size: 2em;
+  }
 }
 
 .masonry-right-2 {
-  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 5px;
   background-image: url("assets/Work-background.png");
   background-size: cover;
@@ -250,6 +265,11 @@ $sizes: 25, 50, 75, 100;
   min-height: 250px;
   @media (max-width: 768px) {
     min-height: 100px;
+  }
+
+  .masonry-right-2-text {
+    text-align: center;
+    font-size: 2em;
   }
 }
 
