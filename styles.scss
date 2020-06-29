@@ -12,7 +12,6 @@ body {
   background-color: $secondary-color !important;
 }
 
-/* Modification class bootsrap 4 pour w & h */
 $sizes: 25, 50, 75, 100;
 @media (min-width: 992px) {
   @each $size in $sizes {
@@ -50,7 +49,6 @@ $sizes: 25, 50, 75, 100;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
-
 
   .hero-title-container {
     height: 83vh;
@@ -222,7 +220,6 @@ $sizes: 25, 50, 75, 100;
   }
 
   .map-shrink {
-
     .map-img-shrink {
       background-image: url("assets/Interserction-img.png");
       background-size: cover;
