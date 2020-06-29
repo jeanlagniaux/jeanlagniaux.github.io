@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99ede6ad-2775-4c25-8fb8-1e5e09acf220" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="HTML File" />
+        <option value="Less File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d5gmH5sFxRxTDZy1YPcJLiVIQ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\CODE\Hiboost" />
+      <recent name="F:\CODE\Hiboost\html" />
+      <recent name="F:\CODE\Hiboost\html\css" />
+      <recent name="F:\CODE\Hiboost\asset" />
+      <recent name="F:\CODE\Hiboost\scss" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99ede6ad-2775-4c25-8fb8-1e5e09acf220" name="Default Changelist" comment="" />
+      <created>1591720524527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591720524527</updated>
+      <workItem from="1591720526093" duration="8024000" />
+      <workItem from="1591908924249" duration="1181000" />
+      <workItem from="1592052463773" duration="14051000" />
+      <workItem from="1592074305749" duration="711000" />
+      <workItem from="1592124776782" duration="1135000" />
+      <workItem from="1592132532864" duration="6028000" />
+      <workItem from="1592143185613" duration="352000" />
+      <workItem from="1592161428304" duration="3890000" />
+      <workItem from="1592238268725" duration="6764000" />
+      <workItem from="1592410713606" duration="933000" />
+      <workItem from="1592421783563" duration="4920000" />
+      <workItem from="1592498625098" duration="5523000" />
+      <workItem from="1592514270684" duration="22000" />
+      <workItem from="1592576619526" duration="3776000" />
+      <workItem from="1592599632294" duration="1757000" />
+      <workItem from="1592644120753" duration="6438000" />
+      <workItem from="1592732683532" duration="24776000" />
+      <workItem from="1592853160372" duration="7381000" />
+      <workItem from="1592930933984" duration="8088000" />
+      <workItem from="1592946781809" duration="3249000" />
+      <workItem from="1593017625770" duration="11994000" />
+      <workItem from="1593112782380" duration="4920000" />
+      <workItem from="1593447340589" duration="3244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Configure_Path_Variables" timestamp="1592644763286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Configure_Path_Variables/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592644763286" />
+    <state x="552" y="179" key="#Inspections" timestamp="1591730177737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591730177737" />
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592142708015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592142708015" />
+    <state x="624" y="212" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591725058626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="212" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591725058626" />
+    <state x="594" y="299" key="EditFileWatcherDialog" timestamp="1591731023197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="299" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591731023197" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1591723276847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591723276847" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592773753954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592773753954" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1592732964072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592732964072" />
+    <state x="715" y="365" key="cloudConfig.SelfSettingsDialog" timestamp="1591721837130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="365" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591721837130" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1591722920779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591722920779" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1593030842984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593030842984" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593448685044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593448685044" />
+  </component>
+</project>
