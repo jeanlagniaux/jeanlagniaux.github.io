@@ -141,12 +141,19 @@ $sizes: 25, 50, 75, 100;
     right: 0;
     top: -25px;
     text-align: center;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
   }
-}
 
-@media (max-width: 1200px) {
-  .pres-para {
-    border-radius: unset;
+  @keyframes example {
+    0% {
+    }
+    50% {
+      top: 1px;
+    }
+    100% {
+    }
   }
 }
 
